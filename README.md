@@ -14,7 +14,7 @@
 1.  Clone this repository.
 
     ```bash
-        $   git clone https://github.com/Katttdn/QA-Engineer-Exam-Danao.git
+        $   https://github.com/MindfulJourney/QA-Engineering-Exam---Danao.git
     ```
     note: Open the xampp first (apache and mySQL before running the code.)
 
