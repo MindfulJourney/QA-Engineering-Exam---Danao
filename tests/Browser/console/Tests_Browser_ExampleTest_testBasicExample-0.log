@@ -1,0 +1,26 @@
+[
+    {
+        "level": "SEVERE",
+        "message": "https:\/\/cdn.jsdelivr.net\/npm\/admin-lte@3.2\/dist\/js\/adminlte.min.js 5:409 Uncaught TypeError: Cannot read properties of undefined (reading 'fn')",
+        "source": "javascript",
+        "timestamp": 1722643004525
+    },
+    {
+        "level": "SEVERE",
+        "message": "http:\/\/[::1]:5173\/@vite\/client - Failed to load resource: net::ERR_CONNECTION_REFUSED",
+        "source": "network",
+        "timestamp": 1722643006278
+    },
+    {
+        "level": "SEVERE",
+        "message": "http:\/\/[::1]:5173\/resources\/js\/plugins\/jquery\/jquery.min.js - Failed to load resource: net::ERR_CONNECTION_REFUSED",
+        "source": "network",
+        "timestamp": 1722643006293
+    },
+    {
+        "level": "SEVERE",
+        "message": "http:\/\/[::1]:5173\/resources\/js\/dist\/js\/adminlte.js - Failed to load resource: net::ERR_CONNECTION_REFUSED",
+        "source": "network",
+        "timestamp": 1722643006294
+    }
+]
